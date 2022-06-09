@@ -1,0 +1,13 @@
+1. 系统用户文件夹路径下 Custom VM options添加：
+-javaagent:D:\ideacrak\ja-netfilter.jar
+2. 激活
+2022.1以前版本：
+	使用临时激活码即永久激活
+	地址1：http://idea.zngue.com/
+	地址2：https://jetbra.in/s
+2022.1版本使用license server 方式激活 填写：
+	（此版本mymap.jar已经失效）
+	https://jetbra.in
+
+
+-javaagent:D:\ja-netfilter\ja-netfilter.jar
